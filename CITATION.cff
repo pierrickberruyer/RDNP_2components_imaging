@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the Zenodo deposit (10.5281/zenodo.7756308) and, if appropriate, the original publication."
+title: >-
+  RDNP 2-component imaging fit: Matlab code for imaging radial distribution
+  functions of complex particles by relayed dynamic nuclear polarization
+type: software
+authors:
+  - family-names: Berruyer
+    given-names: Pierrick
+  - family-names: Cibaka-Ndaya
+    given-names: Cynthia
+  - family-names: Pinon
+    given-names: Arthur
+  - family-names: Sanchez
+    given-names: Clément
+  - family-names: Drisko
+    given-names: Glenna L.
+  - family-names: Emsley
+    given-names: Lyndon
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.7756308"
+    description: "Archived version of record (raw data and original scripts) on Zenodo"
+  - type: doi
+    value: "10.1021/jacs.3c01279"
+    description: "Original scientific publication"
+repository-code: "https://github.com/USERNAME/REPO_NAME"
+license: CC-BY-SA-4.0
+keywords:
+  - dynamic nuclear polarization
+  - imaging
+  - nuclear magnetic resonance imaging
+  - DNP
+  - spin diffusion
+  - NMR
+  - core-shell particles
+  - Matlab
+
